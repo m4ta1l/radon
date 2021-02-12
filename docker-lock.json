@@ -1,0 +1,11 @@
+{
+	"dockerfiles": {
+		"Dockerfile": [
+			{
+				"name": "alpine",
+				"tag": "edge",
+				"digest": "78b6d0a9e7a5b3d2aa1c10932f08272d360a9b35e80b3cc5fb04b30e04fecf4b"
+			}
+		]
+	}
+}
